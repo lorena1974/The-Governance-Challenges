@@ -1,11 +1,13 @@
 # The-Governance-Challenges
 A long road ahead with many challenges and no clear guidelines to follow. 
 
-Intro
+## Intro
 
 For years, blockchain technology and the crypto ecosystem have been evolving on the basis of trial and error and the efforts of different projects to continue to innovate and grow without clear rules.
 
 And governance is no exception. 
+
+## Pros and Cons
 
 Over time, the pros and cons of the different types of governance assumed by the projects have become more visible and the crypto ecosystem requires a review and pooling of ideas to strengthen decision-making and the representativeness of the token holders.  
 
@@ -54,7 +56,7 @@ Each has its own advantages and drawbacks.
 8. Governance Efficiency: Related with models, it is mandatory to ensure efficient decision-making processes.. Slow or inefficient governance mechanisms will negatively affect the projects, innovation and evolution of blockchain networks (scalability).
 
 
-How does Polkadot address the challenges outlined:
+## How does Polkadot address the challenges outlined:
 
 1. Decentralization: Balancing decentralization is challenging.
 
@@ -65,7 +67,6 @@ In Gov1 Polkadot had a Technical Committee, a technocratic committee to manage u
 In Gov1 delegation of voting power was possible. Open gov allows flexible delegation for different tracks called Multirole Delegation. 
 
 In other projects: coin-voting without delegation.
-
 
 
 2. On-chain governance model provides transparency to decisions after public discussions on Polkassembly.
@@ -83,7 +84,6 @@ Decentralized voices is an interesting proposal that could address the token hol
 Methods like KYC, credentials, Proof of Personhood, BrightID, Gitcoin passport, Proof of Humanity or account verification are not yet homogeneous or definitive. Collaborative work on a reputation system for different blockchains is needed.
 
 
-
 5. Security concerns. A large list of security attacks to blockchains, protocols, etc and vulnerabilities that affect the ecosystem.
 
 6. Governance plutocracy and power concentration: Have ¨skin in the game¨ justifies the plutocracy and power concentration. According to that, decisions benefit those with more interest in the blockchain or game. 
@@ -97,7 +97,7 @@ In Polkadot's case, this is exacerbated by the OpenGov system, creating bounties
 There is an issue of representation and power concentration where alignment between the interests of large holders and active decision-makers is lacking. Large token holders may prioritize their own interests or manipulate token holders due to asymmetric information. Powerful groups appointing representatives in different blockchain governance structures further concentrate power. Accountability should be established for representatives to answer for their actions. Ideas are imposed by those with power claiming to represent the voiceless.
 
 
-Conclusion
+## Conclusion
 
 Different governance structures should align the interests of the community and inactive token holders with fellowships, bounties, etc., promoting transparency, accountability, and implementing mechanisms for effective supervision and enforcement.
 
